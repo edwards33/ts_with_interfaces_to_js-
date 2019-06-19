@@ -5,7 +5,7 @@
 ```bash
 $ npm i -g typescript
 ```
-  Install Http-server
+  Install [Http-server](https://www.npmjs.com/package/http-server)
 
 ```bash
 $ npm i -g http-server
